@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Ali Ali</h1>
 <h3 align="center">A Data Scientist from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaliali811&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaliali811" /> </p>
 
@@ -18,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmedali190774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ahmedali190774" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ali-141889205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ali-141889205/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/ahmedali190774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ahmedali190774" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-ali-141889205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-ali-141889205" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21147244/ahmed-ali-ali?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21147244/ahmed-ali-ali?tab=profile" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/ahmedali74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmedali74" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100010558398425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010558398425" height="30" width="40" /></a>
