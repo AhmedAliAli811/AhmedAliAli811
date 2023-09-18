@@ -2,7 +2,7 @@
 <h3 align="center">A Data Scientist from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaliali811&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaliali811" /> </p>
+
 
 - 🔭 I’m currently working on [Stack overflow Survey 2023](https://github.com/AhmedAliAli811/End_To_End_Data_Science_Project)
 
