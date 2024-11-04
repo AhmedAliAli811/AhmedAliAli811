@@ -12,12 +12,12 @@
 
 - 📫 How to reach me **aly869556@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmedalialy/](https://www.linkedin.com/in/ahmed-ali-141889205/overlay/1635540979379/single-media-viewer/?profileId=ACoAADRG9YEBQe9-whi1YE_4beTvxQyLlLKcPlU)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1vLB6QQr0F4IP9d7-Fs1IleaqVK13ebU8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ahmedali190774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmedali190774" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-ali-ali-141889205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-ali-141889205" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmedalialy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-ali-141889205" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21147244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21147244" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmedali74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedali74" height="30" width="40" /></a>
 <a href="https://fb.com/100010558398425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010558398425" height="30" width="40" /></a>
