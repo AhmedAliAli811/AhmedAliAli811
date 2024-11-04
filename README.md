@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali Ali</h1>
-<h3 align="center">A Data Scientist from Egypt</h3>
+<h3 align="center">A Data Analyst from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 
-
-- 🔭 I’m currently working on [Stack overflow Survey 2023](https://github.com/AhmedAliAli811/End_To_End_Data_Science_Project)
 
 - 🌱 I’m currently learning **Data Science**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-ali-141889205/](https://www.linkedin.com/in/ahmed-ali-141889205/)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning , Data Analysis and Data science**
 
 - 📫 How to reach me **aly869556@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-ali-141889205/overlay/1635540979379/single-media-viewer/?profileId=ACoAADRG9YEBQe9-whi1YE_4beTvxQyLlLKcPlU](https://www.linkedin.com/in/ahmed-ali-141889205/overlay/1635540979379/single-media-viewer/?profileId=ACoAADRG9YEBQe9-whi1YE_4beTvxQyLlLKcPlU)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ahmedalialy/](https://www.linkedin.com/in/ahmed-ali-141889205/overlay/1635540979379/single-media-viewer/?profileId=ACoAADRG9YEBQe9-whi1YE_4beTvxQyLlLKcPlU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
