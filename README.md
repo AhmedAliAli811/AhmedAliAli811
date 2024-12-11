@@ -4,15 +4,14 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-ali-141889205/](https://www.linkedin.com/in/ahmed-ali-141889205/)
+- 🌱 I’m currently learning **Business Intelligence and Data Analytics**
 
 - 💬 Ask me about **Machine Learning , Data Analysis and Data science**
 
 - 📫 How to reach me **aly869556@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1vLB6QQr0F4IP9d7-Fs1IleaqVK13ebU8/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1GYh16cKKJHiHcvC6rXbrFEC6gqGUG1n0/view?usp=sharing)
+- 📄 Know about my Work [Portfolio](https://ahmed-ali-one.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
